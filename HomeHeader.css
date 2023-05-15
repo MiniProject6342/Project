@@ -1,0 +1,12 @@
+.nav2{
+    background-color: gray;
+    padding:20px ;
+    text-align: center;
+}
+.nav2 a{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
